@@ -1,4 +1,4 @@
 emsfProxy
 =========
 
-Proxy for Salesforce
+Global proxy for Salesforce
